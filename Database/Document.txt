@@ -1,0 +1,7 @@
+http://localhost/
+
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext
+
+mycom > properties > Advanced system setting >enviroment 
+>new.. >CLASSPATH value  C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext
+> Path >edit value C:\Program Files\Java\jdk1.8.0_102\bin
